@@ -4,7 +4,7 @@ body{
 #f0{
     display: flex;
     flex-direction: column;
-    
+   
 }
 #f{
     
@@ -12,7 +12,7 @@ body{
     background: url(a.jpeg)  fixed ;
     font-family: 'Open Sans', sans-serif;
     color: aliceblue;
-    height: 1000px;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -23,7 +23,7 @@ body{
     background: url(b.jpeg)  fixed ;
     font-family: 'Open Sans', sans-serif;
     color: aliceblue;
-    height: 1000px;
+    height: 100vh;
     
     background-position: center;
     display: flex;
@@ -35,7 +35,7 @@ body{
     background: url(m.jpeg)  fixed ;
     font-family: 'Open Sans', sans-serif;
     color: aliceblue;
-    height: 1000px;
+    height: 100vh;
     
     background-position: center;
     display: flex;
